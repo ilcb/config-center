@@ -1,1 +1,3 @@
-message: 'dev'
+config:
+  info: dev
+  version: 2.0
